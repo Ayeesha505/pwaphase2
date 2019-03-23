@@ -1,0 +1,38 @@
+body{
+  background:  #69E4C1   ;
+}
+.main
+{
+  display: flex;
+  margin:1%;
+  padding:1%;
+  width: 95%;
+
+}
+.main section{
+  width: 95%;
+  border:2px solid black;
+  margin: 1%;
+  padding: 1%;
+}
+section{
+  background:#FFC300  ;
+  text-align: center;
+margin: 1%;
+padding: 1%;
+}
+input,select{
+  width: 95%;
+  margin: 1%;
+  padding:1%;
+}
+button{
+  width: 20%;
+  background: #2334B8;
+  color: #DDD;
+  margin: 1%;
+  padding: 1%;
+  font-size: 30PX;
+  font-weight: bold;
+  font-style: normal;
+}
